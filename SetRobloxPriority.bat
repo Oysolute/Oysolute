@@ -2,7 +2,7 @@
 title Roblox Priority Script
 color 0A
 
-REM Вывод крупного текста с ASCII-артом
+REM 
 echo.
 echo.  Script
 echo.        By
@@ -15,7 +15,7 @@ echo.
 echo
 timeout /t 3 >nul
 
-REM Запуск основного скрипта
+REM 
 :start
 setlocal
 set EXE_NAME=RobloxPlayerBeta.exe
